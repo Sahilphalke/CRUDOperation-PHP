@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;500;600;700;800&family=Heebo:wght@100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ysabeau+SC:wght@1..1000&display=swap');
+
+
+.left{
+    background-color: #1F485B;
+}
+
+p{
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-size: 25px;
+    color: white;
+}
+
+a{
+    font-family: "Poppins",serif;
+}
+
+.btn{
+    background-color: #1F485B;
+    color: white;
+}
+
+.btn:hover{
+    color: #ffffff;
+    background-color: rgb(111, 134, 128);
+}
+
+.row{
+background: #e0e0e0;
+box-shadow:  26px 26px 50px #cacaca,
+             -26px -26px 50px #f6f6f6;
+}
